@@ -3863,6 +3863,7 @@ p {
   text-align: center;
   margin-top: 90px;
   transition: all linear 0.3s;
+  min-height: 220px;
 }
 
 .single-infetech-feature-item .icon {
@@ -7135,7 +7136,7 @@ p {
 .infetech-footer-area {
   padding-top: 120px;
   padding-bottom: 107px;
-  background-image: url(../images/footer-bg.jpg);
+  background-image: url(../images/aitue/footer-bg.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -7333,7 +7334,7 @@ p {
 }
 
 .footer-copyright {
-  background: #15101e;
+  background: #030303;
   border-top: 1px solid #322d3d;
   padding: 30px 0;
 }
