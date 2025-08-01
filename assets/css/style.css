@@ -12,7 +12,7 @@
     CSS INDEX
     ===================
 
-    01. Theme default CSS
+    01. Theme default CSSF
 	02. Header
     03. Hero
 	04. Footer
@@ -1851,7 +1851,7 @@ p {
 
 
 .infetech-banner-area .infetech-banner-slide-active.item-1 {
-  background-image: url(../images/aitue/fondo\ header_aitue.webp);
+  background-image: url(../images/aitue/aitue_corporativo_header-2.webp);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3822,7 +3822,7 @@ p {
     6.FEATURE css 
 ===========================*/
 .infetech-feature-area {
-  background: #1d1729;
+  
   padding-top: 180px;
   padding-bottom: 120px;
   position: relative;
@@ -3851,7 +3851,7 @@ p {
   top: 0;
   height: 100%;
   width: 100%;
-  background-image: url(../images/dot-bg.png);
+  background-image: url(../images/aitue/Componentes-1920x700.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -9833,7 +9833,7 @@ p {
   top: 0;
   height: 100%;
   width: 50%;
-  background-image: url(../images/solutions-bg.jpg);
+  background-image: url(../images/aitue/960x691.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
