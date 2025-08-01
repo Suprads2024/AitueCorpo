@@ -9817,8 +9817,8 @@ p {
 ===========================*/
 .infetech-solutions-area {
   background: #1d1729;
-  padding-top: 20px;
-  padding-bottom:20px;
+  padding-top: 40px;
+  padding-bottom:40px;
   background-image: url(../images/aitue/960x691-2.webp);
   background-position: top right;
   background-repeat: no-repeat;
@@ -9838,6 +9838,11 @@ p {
   background-position: center;
   background-repeat: no-repeat;
 }
+@media (min-width: 992px) {
+  .ancho-ajustado {
+    max-width: 660px;
+  }
+}
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .infetech-solutions-area::before {
@@ -9850,7 +9855,9 @@ p {
     display: none;
   }
 }
-
+.solutions-content{
+  margin-left: 100px;
+}
 .solutions-content .section-title span {
   color: #b0a9c0;
 }
@@ -9914,6 +9921,7 @@ p {
 
 .solutions-content .solutions-service .icon::before {
   position: absolute;
+   
   content: '';
   left: 0;
   top: 0;
@@ -9930,7 +9938,7 @@ p {
   font-weight: 800;
   margin-top: 14px;
 }
-
+.ancho-ajustado{max-width: 800px!important;}
 /*===========================
     22.PRICING css 
 ===========================*/
