@@ -5658,7 +5658,7 @@ p {
   content: '';
   top: 0;
   right: 0;
-  background-image: url(../images/team-pattern.png);
+  background-image: url(../images/aitue/team-pattern.webp);
   height: 470px;
   width: 370px;
   background-size: cover;
@@ -9819,7 +9819,7 @@ p {
   background: #1d1729;
   padding-top: 20px;
   padding-bottom:20px;
-  background-image: url(../images/solutions-shape.png);
+  background-image: url(../images/aitue/960x691-2.webp);
   background-position: top right;
   background-repeat: no-repeat;
   background-size: contain;
