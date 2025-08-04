@@ -9856,6 +9856,33 @@ p {
   .infetech-solutions-area::before {
     display: none;
   }
+
+  .infetech-solutions-area {
+    background: url(../images/aitue/400x960.webp) top right no-repeat;
+    background-size: cover;
+    background-color: white; /* para que se note si no carga */
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: relative;
+  }
+
+  .infetech-solutions-area > .container {
+    max-width: 100%;
+    width: 100%;
+    padding: 0 15px; /* opcional: para darle algo de margen interno */
+  }
+
+  .infetech-solutions-area .row {
+    margin: 0;
+  }
+
+  .infetech-solutions-area .col-lg-5 {
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+
+
 }
 .solutions-content{
   margin-left: 100px;
@@ -9912,6 +9939,10 @@ p {
   .solutions-content .solutions-service {
     margin-bottom: 20px;
   }
+
+  .solutions-content{
+  margin-left: 0px;
+}
 }
 
 .solutions-content .solutions-service .icon {
