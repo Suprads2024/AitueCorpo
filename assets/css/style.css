@@ -3863,12 +3863,13 @@ p {
   text-align: center;
   margin-top: 90px;
   transition: all linear 0.3s;
-  min-height: 180px;
+  min-height: 160px;
+  border-radius: 20%;
 }
 
 .single-infetech-feature-item .icon {
-  height: 120px;
-  width: 120px;
+  height: 100px;
+  width: 100px;
   text-align: center;
   line-height: 120px;
   display: inline-block;
@@ -3876,7 +3877,7 @@ p {
   position: relative;
   z-index: 10;
   background: #15101e;
-  border-radius: 50%;
+  border-radius: 30%;
   transition: all linear 0.3s;
 }
 
