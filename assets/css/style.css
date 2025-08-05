@@ -4113,6 +4113,7 @@ p {
 }
 
 .cta-home-box {
+ margin: 150px 0px;
   background-image: url(../images/cta-bg-2.jpg);
   background-size: cover;
   background-position: center;
@@ -7942,6 +7943,7 @@ p {
   width: 65px;
   border-radius: 50%;
   transition: all linear 0.3s;
+  display: none;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -8251,36 +8253,10 @@ p {
   padding-top: 85px;
 }
 
-.infetech-information-area .information-thumb .thumb::before {
-  position: absolute;
-  content: 'missions';
-  left: -185px;
-  top: 135px;
-  font-size: 30px;
-  font-weight: 400;
-  color: #1d1729;
-  opacity: 0.2;
-  text-transform: uppercase;
-  letter-spacing: 21px;
-  transform: rotate(-90deg);
-}
-
 .infetech-information-area .information-thumb .thumb.thumb-2 {
   margin-top: -85px;
 }
 
-.infetech-information-area .information-thumb .thumb.thumb-2 .information-logo {
-  padding-left: 0;
-  padding-right: 60px;
-  margin-top: 85px;
-}
-
-.infetech-information-area .information-thumb .thumb.thumb-2::before {
-  content: 'visions';
-  left: auto;
-  right: -70px;
-  transform: rotate(90deg);
-}
 
 .information-content {
   position: relative;
