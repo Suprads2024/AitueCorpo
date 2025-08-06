@@ -590,7 +590,7 @@ p {
 
 .header-main-nav-box ul li a {
   font-weight: 500;
-  color: #6c6a72;
+  color: #ffffff;
   font-size: 16px;
   position: relative;
 }
@@ -613,7 +613,7 @@ p {
 }
 
 .header-main-nav-box ul li a:hover {
-  color: #1d1729;
+  color: #005ee9;
 }
 
 .header-main-nav-box ul li a:hover::before {
@@ -2061,7 +2061,7 @@ p {
   top: 0;
   height: 100%;
   width: 100%;
-  background-image: url(../images/banner-shape-bg.png);
+  background-image: url(../images/aitue/internacional_header_1.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8027,7 +8027,7 @@ p {
 }
 
 .single-service-3-item.clients-3-item:hover::before {
-  background: #6c3af0;
+  background: #070707;
 }
 
 .single-service-3-item.clients-3-item:hover .icon svg {
@@ -8466,7 +8466,7 @@ p {
 .infetech-offer-category-area {
   padding-top: 118px;
   padding-bottom: 110px;
-  background-image: url(../images/offer-category-bg.jpg);
+  background-image: url(../images/aitue/internacional_header_2.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
