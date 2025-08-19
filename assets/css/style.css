@@ -1618,7 +1618,7 @@ p {
   top: 0;
   right: 0;
   z-index: 99;
-  background: #fff;
+  background: #005ee9;
   animation: sticky 1s;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -8251,6 +8251,7 @@ p {
 .infetech-information-area .information-thumb .thumb .information-logo {
   padding-left: 60px;
   padding-top: 85px;
+  max-width: 20%;
 }
 
 .infetech-information-area .information-thumb .thumb.thumb-2 {
@@ -9047,7 +9048,7 @@ p {
 }
 
 .technology-box .technology-service .icon {
-  border: 2px solid #fff;
+
   height: 64px;
   width: 64px;
   text-align: center;
